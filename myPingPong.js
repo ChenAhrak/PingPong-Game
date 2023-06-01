@@ -9,7 +9,7 @@ let p2Score = 0;
 let winningScore = 3;
 let isGameOver = false;
 
-//commit
+
 
 function p1Points() {
     if (!isGameOver) {
